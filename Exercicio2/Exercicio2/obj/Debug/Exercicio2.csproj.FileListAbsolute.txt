@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Aulas de C# Portugal\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\Aulas de C# Portugal\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Aulas de C# Portugal\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Aulas de C# Portugal\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Aulas de C# Portugal\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Aulas de C# Portugal\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Aulas de C# Portugal\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb

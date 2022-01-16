@@ -1,0 +1,8 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio11\Exercicio11\bin\Debug\Exercicio11.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio11\Exercicio11\bin\Debug\Exercicio11.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio11\Exercicio11\bin\Debug\Exercicio11.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio11\Exercicio11\obj\Debug\Exercicio11.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio11\Exercicio11\obj\Debug\Exercicio11.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio11\Exercicio11\obj\Debug\Exercicio11.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio11\Exercicio11\obj\Debug\Exercicio11.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio11\Exercicio11\obj\Debug\Exercicio11.pdb

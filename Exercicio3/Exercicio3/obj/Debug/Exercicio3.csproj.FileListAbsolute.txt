@@ -1,0 +1,7 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio3\Exercicio3\bin\Debug\Exercicio3.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio3\Exercicio3\bin\Debug\Exercicio3.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio3\Exercicio3\bin\Debug\Exercicio3.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio3\Exercicio3\obj\Debug\Exercicio3.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio3\Exercicio3\obj\Debug\Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio3\Exercicio3\obj\Debug\Exercicio3.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio3\Exercicio3\obj\Debug\Exercicio3.pdb

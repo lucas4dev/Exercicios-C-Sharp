@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio10\Exercicio10\bin\Debug\Exercicio10.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio10\Exercicio10\obj\Debug\Exercicio10.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercicio10\Exercicio10\obj\Debug\Exercicio10.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Aulas de C# Portugal\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\Aulas de C# Portugal\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Aulas de C# Portugal\Exercicio10\Exercicio10\bin\Debug\Exercicio10.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Aulas de C# Portugal\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Aulas de C# Portugal\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Aulas de C# Portugal\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Aulas de C# Portugal\Exercicio10\Exercicio10\obj\Debug\Exercicio10.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Aulas de C# Portugal\Exercicio10\Exercicio10\obj\Debug\Exercicio10.pdb
